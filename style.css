@@ -1,0 +1,71 @@
+*{
+   
+    background-color: cornsilk;
+    
+
+
+}
+
+
+a{
+    text-decoration: none;
+    pointer-events: fill;
+    text-decoration-color: crimson;
+    color: darkmagenta;
+    font-size: larger;
+}
+
+a.active{
+
+    color: mediumspringgreen;
+}
+
+a.flex{
+
+text-decoration-color: darkorange;
+color: forestgreen;
+font-size: 40px;
+
+}
+
+header{
+
+    color: darkred;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+
+}
+
+.flex h1{
+
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    font-family: Anton;
+    color: forestgreen;
+}
+
+p{
+   text-align: center;
+
+}
+.flex{
+
+    justify-content: center;
+}
+
+.flex button{
+
+
+justify-content: center;
+}
+
+.container1 h1{
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    font-family: Anton;
+    color: forestgreen;
+}
